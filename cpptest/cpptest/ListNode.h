@@ -10,6 +10,14 @@
 #define ListNode_h
 
 #include <stdio.h>
+class ListNode
+{
+public:
+    ListNode();
+    ~ListNode();
+};
+
+
 
 
 #endif /* ListNode_h */
